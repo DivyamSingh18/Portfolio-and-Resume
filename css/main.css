@@ -7,6 +7,12 @@
   user-select: none;
 }
 
+.image {
+  height: 160px;
+  width: 200px;
+}
+
+
 .menu-btn {
   position: absolute;
   z-index: 3;
